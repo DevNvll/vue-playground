@@ -1,0 +1,22 @@
+{
+  "name": "vueplayground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Henrick Martins",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^3.3.5",
+    "font-awesome": "^4.4.0",
+    "jquery": "^2.1.4",
+    "vue": "^1.0.1",
+    "vue-resource": "^0.1.16"
+  },
+  "devDependencies": {
+    "css-loader": "^0.21.0",
+    "html-loader": "^0.3.0"
+  }
+}
