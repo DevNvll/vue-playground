@@ -1,4 +1,4 @@
-# vue-playground
+# Vue Playground
 
 Learning vue.
 
